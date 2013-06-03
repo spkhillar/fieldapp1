@@ -1,0 +1,8 @@
+
+/telenoetica.field.service.app.web/target
+/telenoetica.field.service.app.scheduler/target
+/telenoetica.field.service.app.persistence/target
+/telenoetica.field.service.app.integration/target
+/telenoetica.field.service.app.all/.project
+/test/target
+/test/.settings
